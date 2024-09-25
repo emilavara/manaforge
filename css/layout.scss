@@ -1,0 +1,13 @@
+.mf-layout {
+    display: grid;
+    grid-template-columns: 48px 1fr;
+    height: calc(100vh - 60px);
+    gap: 4px;
+
+    > div {
+        background: #131313;
+        border-radius: 6px;
+        outline: 1px solid #202020;
+        outline-offset: -1px;
+    }
+}

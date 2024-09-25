@@ -1,0 +1,16 @@
+body {
+    font-family: 'system-ui';
+    width: calc(100% - 8px);
+    padding: 4px;
+    margin: 0;
+    color: white;
+    background: black;
+
+    * {
+        box-sizing: border-box;
+    }
+}
+
+@import 'header.scss';
+@import 'layout.scss';
+@import 'adminpanel.scss';

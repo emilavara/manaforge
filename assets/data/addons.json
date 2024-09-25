@@ -1,0 +1,68 @@
+[
+    {
+        "name": "WeakAuras",
+        "icon": "https://example.com/icon.jpg",
+        "description": "WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft’s user interface to  indicate buffs, debuffs, and other relevant information. This add-on  was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.",
+        "images": [
+            "https://example.com/image.jpg"
+        ],
+        "uploaded": "Aug 26 2024",
+        "author": "Stanzilla",
+        "downloads": 202414,
+        "expansions": [
+            "vanilla",
+            "tbc",
+            "wotlk"
+        ],
+        "downloadLinks": {
+            "vanilla": "https://example.com/vanilla",
+            "tbc": "https://example.com/tbc",
+            "wotlk": "https://example.com/wotlk"
+        },
+        "curseforge": "https://example.com"
+    },
+    {
+        "name": "bleakauras",
+        "icon": "https://example.com/icon.jpg",
+        "description": "WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft’s user interface to  indicate buffs, debuffs, and other relevant information. This add-on  was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.",
+        "images": [
+            "https://example.com/image.jpg"
+        ],
+        "uploaded": "Aug 26 2024",
+        "author": "Stanzilla",
+        "downloads": 202414,
+        "expansions": [
+            "vanilla",
+            "tbc",
+            "wotlk"
+        ],
+        "downloadLinks": {
+            "vanilla": "https://example.com/vanilla",
+            "tbc": "https://example.com/tbc",
+            "wotlk": "https://example.com/wotlk"
+        },
+        "curseforge": "https://example.com"
+    },
+    {
+        "name": "details",
+        "icon": "https://example.com/icon.jpg",
+        "description": "WeakAuras is a powerful and flexible framework that allows the display of highly customizable graphics on World of Warcraft’s user interface to  indicate buffs, debuffs, and other relevant information. This add-on  was created to be a lightweight replacement for Power Auras but has since introduced more functionalities while remaining efficient and easy to use.",
+        "images": [
+            "https://example.com/image.jpg"
+        ],
+        "uploaded": "Aug 26 2024",
+        "author": "Stanzilla",
+        "downloads": 202414,
+        "expansions": [
+            "vanilla",
+            "tbc",
+            "wotlk"
+        ],
+        "downloadLinks": {
+            "vanilla": "https://example.com/vanilla",
+            "tbc": "https://example.com/tbc",
+            "wotlk": "https://example.com/wotlk"
+        },
+        "curseforge": "https://example.com"
+    }
+]

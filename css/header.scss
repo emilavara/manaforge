@@ -1,0 +1,50 @@
+.mf-header {
+    height: 48px;
+    width: 100%;
+    background: #131313;
+    border-radius: 6px;
+    margin-bottom: 4px;
+    -webkit-app-region: drag;
+    outline: 1px solid #202020;
+    outline-offset: -1px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+
+    > * {
+        -webkit-app-region: no-drag;
+        pointer-events: all;
+    }
+    
+    .mf-header-logo {
+
+    }
+
+    .mf-header-button-controllers {
+        width: 168px;
+        display: flex;
+       
+        button {
+            height: 48px;
+            width: 56px;
+            border: none;
+            background: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            &.mf-action {
+                transition: background-color 0.1s ease;
+
+                &:hover {
+                    background-color: rgba(255, 255, 255, 0.10);
+                }
+
+                &.invasive:hover {
+                    background-color: #E81123;
+                }
+            }
+        }
+    }
+}
